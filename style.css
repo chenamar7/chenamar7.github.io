@@ -921,15 +921,15 @@ section:nth-child(5) {
 .academic-link {
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
+    gap: 0.8rem;
+    padding: 0.8rem 1.5rem;
     text-decoration: none;
     color: var(--text-secondary);
     background-color: var(--background-secondary);
-    border-radius: 8px;
+    border-radius: 12px;
     border: 1px solid var(--border-color);
     transition: var(--transition);
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 .academic-link i {
